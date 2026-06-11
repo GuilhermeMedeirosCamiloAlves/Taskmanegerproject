@@ -211,13 +211,6 @@ npm run lint
 - [Maven Documentation](https://maven.apache.org/guides/index.html)
 - [ESLint Configuration](https://eslint.org/docs/latest/use/configure/)
 
-## 🤝 Contributing
-
-Feel free to fork, modify, and submit pull requests to improve this project.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
